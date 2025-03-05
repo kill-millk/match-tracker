@@ -4,7 +4,7 @@
 
 ## Демо
 
-[Посмотреть демо](https://app.ftoyd.com) 
+[Посмотреть демо](https://match-tracker-khaki.vercel.app/) 
 
 ## Особенности
 
@@ -27,7 +27,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone [URL репозитория]
+git clone https://github.com/kill-millk/match-tracker
 cd match-tracker
 
 # Установка зависимостей
@@ -103,6 +103,3 @@ src/
 - Изолированность фич
 - Удобную навигацию по коду
 
-## Лицензия
-
-MIT
